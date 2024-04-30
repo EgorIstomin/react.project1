@@ -2,21 +2,19 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import Header from './components/Header'
 
-function App() {
+export default function App() {
   return (
     <>
-    <header> 
-      <h3>Egor's project1</h3>
-      <span>Time is here</span>
-    </header>
+    <Header />
 
     <main>
-      <h1>React.project11</h1>
+      <h1>React.project1</h1>
     </main>
       
     </>
   )
 }
 
-export default App
+
