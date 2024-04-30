@@ -10,7 +10,8 @@ export default function App() {
     <Header />
 
     <main>
-      <h1>React.project1</h1>
+      <h1>React.project11</h1>
+      <h1>new</h1>
     </main>
       
     </>
